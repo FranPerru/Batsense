@@ -44,7 +44,7 @@ IP Mapping: Once your ESP32s are connected, note their IP addresses and update t
 
 Python
 RED_PLAYER_VIBRATOR_URL = "http://192.168.1.X/red/player"
-# ... update all 4 URLs<img width="1470" height="956" alt="Captura de pantalla 2025-11-24 a la(s) 8 09 20 p  m" src="https://github.com/user-attachments/assets/446552d5-f2e4-4381-ad1d-e487ba5fa7ee" />
+# ... update all 4 URLs
 
 🎮 How to Use
 Power on your ESP32 units and ensure they are on the same network as your PC.
