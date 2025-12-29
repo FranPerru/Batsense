@@ -1,0 +1,4 @@
+List of libraries:
+opencv-python
+numpy
+requests
